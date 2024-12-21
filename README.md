@@ -4,7 +4,7 @@ The source code for the Mogrene website.
 
 ## Usage
 
-From the root directory of the project and execute:
+From the root directory, execute:
 
 ```
 http-server
