@@ -1,6 +1,6 @@
 # Mogrene
 
-This repository contains the source code for the Mogrene website. The website is built using only HTML and CSS.
+This repository contains the source code for the Mogrene website.
 
 ## Usage
 
