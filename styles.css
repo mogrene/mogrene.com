@@ -135,7 +135,7 @@ section {
 }
 
 .about {
-    max-width: 920px;
+    max-width: 800px;
     gap: 2rem;
 }
 
@@ -273,19 +273,19 @@ footer .right-corner a {
     }
 
     h3 {
-        font-size: 0.9rem;
+        font-size: 0.95rem;
     }
 
     h4 {
-        font-size: 0.85rem;
+        font-size: 0.95rem;
     }
 
     h5 {
-        font-size: 0.8rem;
+        font-size: 0.85rem;
     }
 
     p, a {
-        font-size: 0.75rem;
+        font-size: 0.8rem;
     }
 
     nav {
@@ -320,6 +320,7 @@ footer .right-corner a {
         align-items: center;
         text-align: center;
         gap: 5vh;
+        margin-top: 5vh;
     }
 
     footer .left-corner {
