@@ -265,7 +265,7 @@ footer .right-corner a {
 
 @media only screen and (max-width: 920px) {
     h1 {
-        font-size: 10vw;
+        font-size: 11.5vw;
     }
 
     h2 {
@@ -289,7 +289,7 @@ footer .right-corner a {
     }
 
     nav {
-        padding: 2rem;
+        padding: 2rem 1rem;
     }
 
     nav a {
@@ -301,11 +301,12 @@ footer .right-corner a {
     }
 
     section {
-        padding: 2rem 2rem 4rem 2rem;
+        padding: 2rem 1rem 4rem 1rem;
     }
 
     .section-title {
         font-size: 0.7rem;
+        padding: 1rem;
     }
 
     .projects {
