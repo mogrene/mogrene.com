@@ -331,7 +331,7 @@ footer .right-corner a {
         gap: 2vh;
     }
 
-    footer .right-corner a {
+    footer .right-corner p, footer .right-corner a {
         font-size: 0.9rem;
     }
 
